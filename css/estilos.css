@@ -9,6 +9,28 @@
 
 .listado{
 text-decoration: none;
-    margin: 8px;
-    padding: 4px;
+}
+.carousel{
+    width: 30%;
+}
+
+.main{
+    background-color: rgb(90, 90, 90);
+    height: 1000px;
+}
+
+.titulo{
+    color: white;
+}
+
+.subtitulo{
+    color: rgb(179, 179, 179);
+    font-style: italic;
+}
+
+.imgFooter{
+    width: 30%;
+}
+.form-label{
+    color: white;
 }
