@@ -11,12 +11,16 @@
 text-decoration: none;
 }
 .carousel{
-    width: 30%;
+    margin:5px;
+    width: 47%;
 }
 
 .main{
     background-color: rgb(90, 90, 90);
-    height: 1000px;
+    height: 800px;
+}
+.divPrincipal{
+    margin: 10px;
 }
 
 .titulo{
@@ -29,8 +33,26 @@ text-decoration: none;
 }
 
 .imgFooter{
+    margin: 30px;
     width: 30%;
+    height: 30%;
+    transform: translate(130px);
 }
 .form-label{
+    color: white;
+}
+
+
+.instagramFooter{
+    margin: 30px;
+    text-decoration: none;
+    transform: translate(90px);
+}
+
+.parrafoSomos{
+    padding: 20px;
+}
+
+.card-text{
     color: white;
 }
